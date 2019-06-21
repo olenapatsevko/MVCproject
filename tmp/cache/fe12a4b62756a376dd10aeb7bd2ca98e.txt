@@ -1,0 +1,95 @@
+a:2:{s:4:"data";s:2766:"<li>
+            <p> <a href="/category/c4">     Отопление</a> </p>
+                <ul>
+            <li>
+    <li><a href="/category/c18">Водонагреватели</a></li>
+            </li>
+<li>
+    <li><a href="/category/c18">Котлы отопления</a></li>
+            </li>
+<li>
+    <li><a href="/category/radiatory">Радиаторы</a></li>
+            </li>
+<li>
+    <li><a href="/category/c21">Полотенцесушители</a></li>
+            </li>
+<li>
+    <li><a href="/category/c22">Теплый пол</a></li>
+            </li>
+        </ul>
+    </li>
+<li>
+            <p> <a href="/category/c5">     Двери</a> </p>
+                <ul>
+            <li>
+    <li><a href="/category/c9">Входные</a></li>
+            </li>
+<li>
+    <li><a href="/category/c1">Межкомнатные</a></li>
+            </li>
+        </ul>
+    </li>
+<li>
+            <p> <a href="/category/c10">     Фурнитура</a> </p>
+                <ul>
+            <li>
+    <li><a href="/category/c2">Ручки</a></li>
+            </li>
+<li>
+    <li><a href="/category/c3">Огранечители</a></li>
+            </li>
+<li>
+    <li><a href="/category/c8">Петли</a></li>
+            </li>
+<li>
+    <li><a href="/category/c11">Раздвежные системы</a></li>
+            </li>
+<li>
+    <li><a href="/category/c12">Шпингалеты</a></li>
+            </li>
+        </ul>
+    </li>
+<li>
+            <p> <a href="/category/c7">     Сантехника</a> </p>
+                <ul>
+            <li>
+    <li><a href="/category/c23">Ванны</a></li>
+            </li>
+<li>
+    <li><a href="/category/c24">Смесители</a></li>
+            </li>
+<li>
+    <li><a href="/category/c25">Душевое оборудование</a></li>
+            </li>
+<li>
+    <li><a href="/category/c26">Водопровод</a></li>
+            </li>
+<li>
+    <li><a href="/category/c27">Унитазы и инсталяции</a></li>
+            </li>
+<li>
+    <li><a href="/category/c28">Биде</a></li>
+            </li>
+<li>
+    <li><a href="/category/c29">Умивальники и мойки</a></li>
+            </li>
+        </ul>
+    </li>
+<li>
+            <p> <a href="/category/c6">     Напольное покрытие</a> </p>
+                <ul>
+            <li>
+    <li><a href="/category/c13">Ламинат</a></li>
+            </li>
+<li>
+    <li><a href="/category/c14">Плинтус</a></li>
+            </li>
+<li>
+    <li><a href="/category/c15">Подкладка</a></li>
+            </li>
+<li>
+    <li><a href="/category/c16">Паркет</a></li>
+            </li>
+        </ul>
+    </li>
+";s:8:"end_time";i:1559931104;}
